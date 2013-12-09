@@ -1,0 +1,7 @@
+<story path="jbehave/credit_card_stories.story" title="">
+<scenario keyword="Scenario:" title="Validate a list of credit cards">
+<step outcome="successful">Given I am on the <parameter>welcome</parameter> page</step>
+<step outcome="successful">When I see a list of <parameter>8</parameter> credit cards</step>
+<step outcome="successful">Then I should see <parameter>5</parameter> valid cards and <parameter>3</parameter> invalid cards</step>
+</scenario>
+</story>
