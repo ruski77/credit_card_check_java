@@ -45,6 +45,7 @@
     <file path="/Home.java" changelist="74fc0755-0697-44de-926e-c50c736e5355" time="1385986639191" ignored="false" />
     <file path="/CreditCardSteps.java" changelist="74fc0755-0697-44de-926e-c50c736e5355" time="1386591852362" ignored="false" />
     <file path="/home.jsp" changelist="74fc0755-0697-44de-926e-c50c736e5355" time="1386587948985" ignored="false" />
+    <file path="/README.md" changelist="74fc0755-0697-44de-926e-c50c736e5355" time="1386594499896" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,22 +141,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <file leaf-file-name="CreditCardSteps.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/jbehave/steps/CreditCardSteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="0" selection-start="88" selection-end="88" vertical-scroll-proportion="-3.125">
-              <folding />
+            <state line="65" column="83" selection-start="2627" selection-end="2627" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CreditCardSteps.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/jbehave/steps/CreditCardSteps.java">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="83" selection-start="2627" selection-end="2627" vertical-scroll-proportion="0.7587131">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="0" column="86" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -233,7 +234,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
         <option value="$PROJECT_DIR$/src/test/java/com/adcowebsolutions/FileInputTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/adcowebsolutions/CardTypeTest.java" />
         <option value="$PROJECT_DIR$/src/test/resources/stories/credit_card.story" />
@@ -249,6 +249,7 @@
         <option value="$PROJECT_DIR$/src/main/java/au/com/adcowebsolutions/servlet/FileUploadServlet.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/home.jsp" />
         <option value="$PROJECT_DIR$/src/test/java/jbehave/steps/CreditCardSteps.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -1399,11 +1400,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/resources/credit_cards.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-java/2.26.0/selenium-java-2.26.0.jar!/com/thoughtworks/selenium/DefaultSelenium.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="269" column="16" selection-start="11682" selection-end="11682" vertical-scroll-proportion="0.0" />
@@ -1511,10 +1507,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/jbehave/steps/CreditCardSteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="83" selection-start="2627" selection-end="2627" vertical-scroll-proportion="0.7587131">
+        <state line="65" column="83" selection-start="2627" selection-end="2627" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="86" selection-start="86" selection-end="86" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
